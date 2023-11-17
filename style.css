@@ -1,0 +1,13 @@
+body{
+  background-color: rgb(177, 245, 164);
+  font-size: x-large;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+  text-align: center;
+  
+}
+li{
+  background-color: rgb(146, 239, 163);
+  padding: 1em;
+}

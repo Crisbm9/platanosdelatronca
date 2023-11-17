@@ -11,3 +11,6 @@ li{
   background-color: rgb(146, 239, 163);
   padding: 1em;
 }
+ul{
+  list-style: none;
+}
